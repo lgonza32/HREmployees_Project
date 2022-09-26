@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Verdana, sans-serif;
+}
+
+main {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 25px;
+}
+
+header {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    list-style: none;
+    text-align: center;
+    overflow: hidden;
+    background-color: black;
+    text-transform: uppercase;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav ul a {
+    padding: 14px 16px;
+    color: white; 
+    font-size: 24px;
+    text-decoration: none;
+}
+
+nav ul a:hover {
+    background-color: white;
+    color: black;
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+label {
+    display: inline-block;
+}

@@ -1,0 +1,10 @@
+User:
+lgonza32
+Pass:
+qDv!PT!#_OwK8b024Kjl
+
+mysql -u team03 -p
+Database login:
+%N#u7omsFffN8SZncj2=
+
+34.150.201.142
