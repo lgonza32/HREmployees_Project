@@ -1,5 +1,5 @@
 Team 3
-Authors: Laurenz Luke Gonzales, Ed Salinas 
+Authors: Laurenz Luke Gonzales
 Home Page Name: index.html
 
 DID NOT DO / NOT IMPLEMENTED:
@@ -33,8 +33,3 @@ Assumptions:
 -HR Employees are the only ones able to edit/enter probation status for each employee
 -HR Employees are the only ones able to edit/enter raise and salary
 -HR Employees are the only ones to be able to edit and access employee performance review
-
-IMPORTANT INFORMATION
--Laurenz Luke Gonzales created 95-99% of all the pages within this project
--Ed Salinas contributed heavily in the table implementations
--Taylor Rodgers and Kobi Fon-Ndikum did not contribute at all to this project
